@@ -6,6 +6,6 @@ https://youtu.be/7O04rMp9vVE
 numpy，opencv，mss，PIL
 
     pip install numpy
-    pip install opencv_python
+    pip install opencv-python
     pip install pillow
     pip install mss==2.0.22
